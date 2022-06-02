@@ -4,7 +4,7 @@ Cursando Sistemas de Informação na faculdade Uniceplac do Gama, possuo cursos 
 Estou a procura de estágio e projetos na área de TI, com preferência em ciência e análise de dados.
 
 ## **Formação**
-Sistemas de Informação – Uniceplac Gama (cursando 3° semestre)
+Sistemas de Informação – UNICEPLAC Gama (cursando 3° semestre)
 
 ## **Cursos/Certificações**
 - Certificado: Cisco Network Basics
