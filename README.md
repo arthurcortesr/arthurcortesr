@@ -50,3 +50,6 @@ de gestão de materiais do curso da farmácia
 - Python
 - Aprendendo Data Science
 - Power BI
+
+## **Repositórios**
+- Power BI
