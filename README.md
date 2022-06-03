@@ -39,8 +39,7 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 3° semestre)
 
 
 ## **Experiência**
-- Analista de Infraestrutura na startup da faculdade UNICEPLAC, no projeto de sistema
-de gestão de materiais do curso da farmácia
+- Analista de Infraestrutura na startup da faculdade UNICEPLAC no projeto de sistema de gestão de materiais do curso da farmácia
 
 ## **Informações adicionais**
 - Conhecimento em C
