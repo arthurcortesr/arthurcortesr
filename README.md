@@ -36,6 +36,7 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 3° semestre)
 
 - Curso: Power BI Desktop: construindo meu primeiro dashboard – Alura
 - Curso: Dashboard com Power BI: visualizando dados - Alura
+- Curso: Power BI Desktop: tratamento de dados no Power Query - Alura
 
 
 ## **Experiência**
