@@ -35,11 +35,11 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 3° semestre)
 - Curso: Python para Data Science: Introdução à linguagem e Numpy – Alura
 
 - Formação Power BI - Alura
--- Curso: Power BI Desktop: construindo meu primeiro dashboard – Alura
--- Curso: Dashboard com Power BI: visualizando dados - Alura
--- Curso: Power BI Desktop: tratamento de dados no Power Query - Alura
--- Curso: Power BI: entendendo as fórmulas DAX – Alura
--- Power BI: explorando recursos visuais - Alura
+  - Curso: Power BI Desktop: construindo meu primeiro dashboard – Alura
+  - Curso: Dashboard com Power BI: visualizando dados - Alura
+  - Curso: Power BI Desktop: tratamento de dados no Power Query - Alura
+  - Curso: Power BI: entendendo as fórmulas DAX – Alura
+  - Power BI: explorando recursos visuais - Alura
 
 
 
