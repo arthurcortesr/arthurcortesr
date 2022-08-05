@@ -64,10 +64,10 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
 - Conhecimento em C
 - Conhecimento em redes e segurança
 - Conhecimento em Java
-- Trabalho em equipe
+- Analise de dados
+- Power BI
 - Python
 - Aprendendo Data Science
-- Power BI
 
 ## **Repositórios**
 - [Power BI](https://github.com/arthurcortesr/PowerBI)
