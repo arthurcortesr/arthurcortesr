@@ -41,6 +41,13 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 3° semestre)
   - Curso: Power BI: entendendo as fórmulas DAX – Alura
   - Curso: Power BI: explorando recursos visuais - Alura
 
+- Curso: Redes parte 1: conceitos e prática – Alura
+- Curso: Redes parte 2: montando um projeto do cliente até o provedor de serviços – Alura
+- Curso: Redes parte 3: defina as listas de controle e políticas de acesso de usuários - Alura
+
+
+
+
 
 
 ## **Experiência**
