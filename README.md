@@ -51,7 +51,14 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
 
 
 ## **Experiência**
-- Analista de Infraestrutura na startup da faculdade UNICEPLAC no projeto de sistema de gestão de materiais do curso da farmácia
+- Estagiário na área de infraestrutura do Ministério da Defesa.
+  - Junho/2022 - Atual
+
+- Analista de Infraestrutura na startup da faculdade UNICEPLAC no projeto de sistema de gestão de materiais do curso da farmácia. Criação e configuração da topologia de rede utilizada pela curso da farmácia da UNICEPLAC para gerenciar os matérias.
+  - Março/2022 – Julho/2022
+
+- Alura Challenge BI 1: Projeto de analise de dados com Power BI visando tratar e analisar o dados no Power BI para a criação de métricas e de um dashboard para empresas fictícias.
+  - Semana 1
 
 ## **Informações adicionais**
 - Conhecimento em C
