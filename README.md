@@ -13,18 +13,25 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
   - Curso: Internet Connection How to Get Online
   - Curso: Data Communications and Network Services
   - Curso: Network Protocols and Architecture
-
-- Certificado: Esports – University of California Irvine
-  - Curso: Game Developers and Esports Organizations
-  - Curso: Esports Teams and Professional Players
-  - Curso: Collegiate Esports and Career Planning
-  - Curso: Esports Management Capstone Project
+ 
+ - Formação Power BI - Alura
+  - Curso: Power BI Desktop: construindo meu primeiro dashboard – Alura
+  - Curso: Dashboard com Power BI: visualizando dados - Alura
+  - Curso: Power BI Desktop: tratamento de dados no Power Query - Alura
+  - Curso: Power BI: entendendo as fórmulas DAX – Alura
+  - Curso: Power BI: explorando recursos visuais - Alura
 
 - Certificado: Google IT Support Professional
   - Curso: The Bits and Bytes of Computer Networking
   - Curso: Technical Support Fundamentals
   - Curso: System Administration and IT Infrastructure
   - Curso: Operating Systems and You Becoming a Power User
+
+- Certificado: Esports – University of California Irvine
+  - Curso: Game Developers and Esports Organizations
+  - Curso: Esports Teams and Professional Players
+  - Curso: Collegiate Esports and Career Planning
+  - Curso: Esports Management Capstone Project
 
 - Curso: Game Theory – Stanford University
 
@@ -33,13 +40,6 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
 
 - Curso: Python para Data Science: Primeiros passos – Alura
 - Curso: Python para Data Science: Introdução à linguagem e Numpy – Alura
-
-- Formação Power BI - Alura
-  - Curso: Power BI Desktop: construindo meu primeiro dashboard – Alura
-  - Curso: Dashboard com Power BI: visualizando dados - Alura
-  - Curso: Power BI Desktop: tratamento de dados no Power Query - Alura
-  - Curso: Power BI: entendendo as fórmulas DAX – Alura
-  - Curso: Power BI: explorando recursos visuais - Alura
 
 - Curso: Redes parte 1: conceitos e prática – Alura
 - Curso: Redes parte 2: montando um projeto do cliente até o provedor de serviços – Alura
