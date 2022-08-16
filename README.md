@@ -19,7 +19,7 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
   - Curso: Dashboard com Power BI: visualizando dados - Alura
   - Curso: Power BI Desktop: tratamento de dados no Power Query - Alura
   - Curso: Power BI: entendendo as fórmulas DAX – Alura
-  - Curso: Power BI: explorando recursos visuais - Alura
+  - Curso: Power BI: explorando recursos visuais - Aluraa
 
 - Certificado: Google IT Support Professional
   - Curso: The Bits and Bytes of Computer Networking
