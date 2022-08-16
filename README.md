@@ -52,7 +52,7 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
 
 ## **Experiência**
 - Estagiário na área de infraestrutura do Ministério da Defesa.
-  - Junho/2022 - Atual
+  - Julho/2022 - Atual
 
 - Analista de Infraestrutura na startup da faculdade UNICEPLAC no projeto de sistema de gestão de materiais do curso da farmácia. Criação e configuração da topologia de rede utilizada pela curso da farmácia da UNICEPLAC para gerenciar os matérias.
   - Março/2022 – Julho/2022
