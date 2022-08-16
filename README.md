@@ -14,12 +14,11 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
   - Curso: Data Communications and Network Services
   - Curso: Network Protocols and Architecture
  
- - Formação Power BI - Alura
+- Formação Power BI - Alura
   - Curso: Power BI Desktop: construindo meu primeiro dashboard – Alura
   - Curso: Dashboard com Power BI: visualizando dados - Alura
   - Curso: Power BI Desktop: tratamento de dados no Power Query - Alura
-  - Curso: Power BI: entendendo as fórmulas DAX – Alura
-  - Curso: Power BI: explorando recursos visuais - Aluraa
+  - Curso: Power BI: explorando recursos visuais - Alura
 
 - Certificado: Google IT Support Professional
   - Curso: The Bits and Bytes of Computer Networking
