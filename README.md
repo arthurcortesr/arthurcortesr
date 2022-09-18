@@ -1,6 +1,6 @@
 Arthur Côrtes Rezende, Brasileiro, 26 anos.
 
-Cursando Sistemas de Informação na faculdade Uniceplac do Gama, possuo cursos na área de TI como suporte de TI, redes, python, analise de dados e ciência de dados com Python e Power BI. Cursei Engenharia de Software durante 4 semestres na UnB (Universidade de Brasília). Criativo, trabalho bem em grupo. 
+Cursando Sistemas de Informação na faculdade Uniceplac do Gama, possuo cursos na área de TI como suporte de TI, redes, python, analise de dados e ciência de dados com Python e Power BI.
 Estou a procura de estágio e projetos na área de TI, com preferência em ciência e análise de dados, redes e segurança.
 
 ## **Formação**
