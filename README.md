@@ -44,6 +44,7 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
 - Curso: Redes parte 1: conceitos e prática – Alura
 - Curso: Redes parte 2: montando um projeto do cliente até o provedor de serviços – Alura
 - Curso: Redes parte 3: defina as listas de controle e políticas de acesso de usuários - Alura
+- Curso: Redes parte 4: configuração de protocolos de roteamento e IPv6
 
 
 
