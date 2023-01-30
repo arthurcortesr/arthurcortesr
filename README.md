@@ -33,6 +33,13 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
   - Curso: Collegiate Esports and Career Planning
   - Curso: Esports Management Capstone Project
 
+- Formação de Redes - Alura
+  - Curso: Redes parte 1: conceitos e prática – Alura
+  - Curso: Redes parte 2: montando um projeto do cliente até o provedor de serviços – Alura
+  - Curso: Redes parte 3: defina as listas de controle e políticas de acesso de usuários - Alura
+  - Curso: Redes parte 4: configuração de protocolos de roteamento e IPv6
+  - Curso: Redes parte 5: Wi-Fi – Alura
+
 - Curso: Game Theory – Stanford University
 
 - Curso: Python 3 parte 1: Introdução à nova versão da linguagem – Alura
@@ -40,13 +47,6 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
 
 - Curso: Python para Data Science: Primeiros passos – Alura
 - Curso: Python para Data Science: Introdução à linguagem e Numpy – Alura
-
-- Formação de Redes - Alura
-  - Curso: Redes parte 1: conceitos e prática – Alura
-  - Curso: Redes parte 2: montando um projeto do cliente até o provedor de serviços – Alura
-  - Curso: Redes parte 3: defina as listas de controle e políticas de acesso de usuários - Alura
-  - Curso: Redes parte 4: configuração de protocolos de roteamento e IPv6
-  - Curso: Redes parte 5: Wi-Fi – Alura
 
 - Curso: Certificação Cisco CCNA parte 1: Network Fundamentals I – Alura
 
