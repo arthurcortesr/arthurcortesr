@@ -41,11 +41,14 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
 - Curso: Python para Data Science: Primeiros passos – Alura
 - Curso: Python para Data Science: Introdução à linguagem e Numpy – Alura
 
--Formação de Redes - Alura
+- Formação de Redes - Alura
   - Curso: Redes parte 1: conceitos e prática – Alura
   - Curso: Redes parte 2: montando um projeto do cliente até o provedor de serviços – Alura
   - Curso: Redes parte 3: defina as listas de controle e políticas de acesso de usuários - Alura
   - Curso: Redes parte 4: configuração de protocolos de roteamento e IPv6
+  - Curso: Redes parte 5: Wi-Fi – Alura
+
+- Curso: Certificação Cisco CCNA parte 1: Network Fundamentals I – Alura
 
 - Curso: Business Intelligence: trabalhando com Data Warehouse
 
@@ -53,24 +56,38 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
 
 
 ## **Experiência**
+- Estagiário em Análise de Dados no Serpro
+  - Dezembro/2022 - Atual   
+
 - Estagiário na área de infraestrutura do Ministério da Defesa.
-  - Julho/2022 - Atual
+  - Julho/2022 - Dezembro/202
 
 - Analista de Infraestrutura na startup da faculdade UNICEPLAC no projeto de sistema de gestão de materiais do curso da farmácia. Criação e configuração da topologia de rede utilizada pela curso da farmácia da UNICEPLAC para gerenciar os matérias.
   - Março/2022 – Julho/2022
 
 - Alura Challenge BI 1: Projeto de analise de dados com Power BI visando tratar e analisar o dados no Power BI para a criação de métricas e de um dashboard para empresas fictícias.
   - Semana 1
+  - Semana 2
 
 ## **Informações adicionais**
-- Conhecimento em redes
-- Conhecimento em cibersegurança
-- Conhecimento em C
-- Conhecimento em Java
-- Analise de dados
-- Power BI
+- Noções básicas de rede
+- Noções básicas de acesso à rede
+- Noções básicas de protocolo de Internet
+- Noções básicas de comunicações de rede
+- Noções básicas de protocolo de rede
+- Cisco Packet Tracer
+- Cibersegurança
+- Administração de segurança cibernética
+- Análise de ameaças
+- Proteções do sistema
+- Defesa de rede
+- Especialista em recursos
 - Python
-- Aprendendo Data Science
+- Power BI
+- Analise de dados
+- Java
+- C
+- Suporte
 
 ## **Repositórios**
 - [Power BI](https://github.com/arthurcortesr/PowerBI)
