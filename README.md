@@ -5,9 +5,9 @@ Estou a procura de estágio, projetos e oportunidades em TI na área de seguran�
 
 ## **Formação**
 Sistemas de Informação – UNICEPLAC Gama (cursando 7° semestre)
+Novo Pentest Profissional - (DCPT em progresso)
 
 ## **Cursos/Certificações**
-- Novo Pentest Profissional (DCPT em progresso)
 - Fundamentos em Cibersegurança - IBSEC
 - Boas Práticas de Cibersegurança (Cybersecurity Awareness) – IBSEC
 - Fundamentos em Redes - IBSEC
