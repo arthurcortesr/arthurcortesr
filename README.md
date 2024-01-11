@@ -1,18 +1,36 @@
-Arthur Côrtes Rezende, Brasileiro, 26 anos.
+Arthur Côrtes Rezende, Brasileiro, 27 anos.
 
 Cursando Sistemas de Informação na faculdade Uniceplac do Gama, possuo cursos na área de TI como suporte de TI, redes, python, analise de dados e ciência de dados com Python e Power BI.
 Estou a procura de estágio e projetos na área de TI, com preferência em ciência e análise de dados, redes e segurança.
 
 ## **Formação**
-Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
+Sistemas de Informação – UNICEPLAC Gama (cursando 7° semestre)
 
 ## **Cursos/Certificações**
-- Certificado: Cisco Network Basics
-  - Curso: Home Networking Basics
-  - Curso: Introduction to Cisco Networking
-  - Curso: Internet Connection How to Get Online
-  - Curso: Data Communications and Network Services
-  - Curso: Network Protocols and Architecture
+- Novo Pentest Profissional (DCPT em progresso)
+- Fundamentos em Cibersegurança - IBSEC
+- Boas Práticas de Cibersegurança (Cybersecurity Awareness) – IBSEC
+- Fundamentos em Redes - IBSEC
+- Cisco Network Basics
+- Cisco Cybersecurity Essentials
+- Cisco Introduction to Cybersecurity
+- Cisco Networking Devices and Initial Configuration
+- Cisco Network Addressing and Basic Troublesooting
+- Google IT Support Professional
+- Curso: API Security Fundamentals – APIsec University
+- Formação Segurança Ofensiva - Alura
+  - Curso: Pentest: explorando vulnerabilidades em aplicações web – Alura
+  - Curso: Pentest: investigando vulnerabilidades em um servidor de aplicações web – Alura
+- Formação Redes - Alura
+  - Curso: Redes parte 1: conceitos e prática – Alura
+  - Curso: Redes parte 2: montando um projeto do cliente até o provedor de serviços – Alura
+  - Curso: Redes parte 3: defina as listas de controle e políticas de acesso de usuários - Alura
+  - Curso: Redes parte 4: configuração de protocolos de roteamento e IPv6 – Alura
+  - Curso: Redes parte 5: Wi-Fi – Alura
+- Curso: Certificação Cisco CCNA parte 1: Network Fundamentals I – Alura
+- Curso: Certificação Cisco CCNA parte 2: Network Fundamentals II – Alura
+- Curso: Python 3 parte 1: Introdução à nova versão da linguagem – Alura
+- Curso: Python 3 parte 2: Avançando na linguagem - Alura
  
 - Formação Power BI - Alura
   - Curso: Power BI Desktop: construindo meu primeiro dashboard – Alura
@@ -20,44 +38,18 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
   - Curso: Power BI Desktop: tratamento de dados no Power Query - Alura
   - Curso: Power BI: entendendo as fórmulas DAX - Alura
   - Curso: Power BI: explorando recursos visuais - Alura
-
-- Certificado: Google IT Support Professional
-  - Curso: The Bits and Bytes of Computer Networking
-  - Curso: Technical Support Fundamentals
-  - Curso: System Administration and IT Infrastructure
-  - Curso: Operating Systems and You Becoming a Power User
-
-- Certificado: Esports – University of California Irvine
-  - Curso: Game Developers and Esports Organizations
-  - Curso: Esports Teams and Professional Players
-  - Curso: Collegiate Esports and Career Planning
-  - Curso: Esports Management Capstone Project
-
-- Formação de Redes - Alura
-  - Curso: Redes parte 1: conceitos e prática – Alura
-  - Curso: Redes parte 2: montando um projeto do cliente até o provedor de serviços – Alura
-  - Curso: Redes parte 3: defina as listas de controle e políticas de acesso de usuários - Alura
-  - Curso: Redes parte 4: configuração de protocolos de roteamento e IPv6
-  - Curso: Redes parte 5: Wi-Fi – Alura
-
-- Curso: Game Theory – Stanford University
-
-- Curso: Python 3 parte 1: Introdução à nova versão da linguagem – Alura
-- Curso: Python 3 parte 2: Avançando na linguagem - Alura
-
-- Curso: Python para Data Science: Primeiros passos – Alura
-- Curso: Python para Data Science: Introdução à linguagem e Numpy – Alura
-
-- Curso: Certificação Cisco CCNA parte 1: Network Fundamentals I – Alura
-
-- Curso: Business Intelligence: trabalhando com Data Warehouse
+  - Curso: Certificação Cisco CCNA parte 1: Network Fundamentals I – Alura
+  - Curso: Business Intelligence: trabalhando com Data Warehouse
 
 
 
 
 ## **Experiência**
+- Estagiário em Cybersegurança no Serpro
+  - Julho/2023 - Atual   
+
 - Estagiário em Análise de Dados no Serpro
-  - Dezembro/2022 - Atual   
+  - Dezembro/2022 - Julho/2023   
 
 - Estagiário na área de infraestrutura do Ministério da Defesa.
   - Julho/2022 - Dezembro/202
@@ -65,26 +57,21 @@ Sistemas de Informação – UNICEPLAC Gama (cursando 4° semestre)
 - Analista de Infraestrutura na startup da faculdade UNICEPLAC no projeto de sistema de gestão de materiais do curso da farmácia. Criação e configuração da topologia de rede utilizada pela curso da farmácia da UNICEPLAC para gerenciar os matérias.
   - Março/2022 – Julho/2022
 
-- Alura Challenge BI 1: Projeto de analise de dados com Power BI visando tratar e analisar o dados no Power BI para a criação de métricas e de um dashboard para empresas fictícias.
-  - Semana 1
-  - Semana 2
+
+
 
 ## **Informações adicionais**
-- Noções básicas de rede
-- Noções básicas de acesso à rede
-- Noções básicas de protocolo de Internet
-- Noções básicas de comunicações de rede
-- Noções básicas de protocolo de rede
-- Cisco Packet Tracer
-- Cibersegurança
-- Administração de segurança cibernética
-- Análise de ameaças
-- Proteções do sistema
-- Defesa de rede
-- Especialista em recursos
+- Cybersegurança
+- Pentest
+- Redes
+- Análise de logs
+- Bash
+- Script
 - Python
 - Power BI
-- Analise de dados
+- QlikSense
+- SQL
+- Análise de dados
 - Java
 - C
 - Suporte
