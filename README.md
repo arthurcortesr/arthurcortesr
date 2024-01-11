@@ -1,4 +1,6 @@
 Arthur Côrtes Rezende, Brasileiro, 27 anos.
+<br>
+Cybersecurity | Pentest | Offensive Security | Intern | DCPT (in progress)
 
 Cursando Sistemas de Informação na faculdade Uniceplac do Gama, possuo cursos na área de TI como suporte de TI, redes, python, analise de dados e ciência de dados com Python e Power BI.
 Estou a procura de estágio, projetos e oportunidades em TI na área de segurança, segurança ofensiva, segurança de redes, forense e auditoria.
