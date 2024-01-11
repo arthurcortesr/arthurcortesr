@@ -77,6 +77,8 @@ Novo Pentest Profissional - (DCPT em progresso)
 - Suporte
 
 ## **Repositórios**
+- [Parsing HTML](https://github.com/arthurcortesr/Parsing-HTML/blob/main/README.md)
 - [Power BI](https://github.com/arthurcortesr/PowerBI)
 - [Python](https://github.com/arthurcortesr/Python)
 - [Redes](https://github.com/arthurcortesr/Redes)
+
