@@ -4,7 +4,7 @@ Cursando Sistemas de Informação na faculdade Uniceplac do Gama, possuo cursos 
 Estou a procura de estágio, projetos e oportunidades em TI na área de segurança, segurança ofensiva, segurança de redes, forense e auditoria.
 
 ## **Formação**
-Sistemas de Informação – UNICEPLAC Gama (cursando 7° semestre)
+Sistemas de Informação – UNICEPLAC Gama (cursando 7° semestre)<br>
 Novo Pentest Profissional - (DCPT em progresso)
 
 ## **Cursos/Certificações**
